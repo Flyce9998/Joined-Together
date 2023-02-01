@@ -13,3 +13,9 @@ Textures: Fatih Bilhaq, JCW.
 SFX: StarNinjas, Kenney, Fupi.
 
 Everything else was made by me.
+
+### Screenshots:
+
+![Start Menu](https://github.com/Flyce9998/Joined-Together/blob/main/_pictures/picture_start.png)
+![Sample Stage](https://github.com/Flyce9998/Joined-Together/blob/main/_pictures/picture_1.png)
+![Sample Stage](https://github.com/Flyce9998/Joined-Together/blob/main/_pictures/picture_3.png)
